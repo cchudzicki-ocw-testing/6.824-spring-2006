@@ -5,7 +5,12 @@ description: 'Discussion notes. Bressoud, Thomas, and Fred Schneider. "Hyperviso
   80-107.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/64da807a63d13ed61c1758b055437d80_hypervisor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: hypervisor.pdf
+type: OCWFile
 uid: 64da807a-63d1-3ed6-1c17-58b055437d80
 ---

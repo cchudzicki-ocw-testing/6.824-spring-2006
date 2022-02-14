@@ -5,7 +5,12 @@ description: 'Discussion notes. Hagmann, Robert. "Reimplementing the Cedar File 
   (1987): 155-162.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/a608a4457271be455ffa18a614ba94e7_hagmann.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: hagmann.pdf
+type: OCWFile
 uid: a608a445-7271-be45-5ffa-18a614ba94e7
 ---

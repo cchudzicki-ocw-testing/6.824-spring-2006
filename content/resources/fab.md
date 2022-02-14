@@ -5,7 +5,12 @@ description: 'Discussion notes. Saito, Yasushi, et al. "FAB: Building Distribute
   SIGOPS 38, no. 5 (December 2004): 48-58. (Skip sections 4.2 and 6.)'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/b37259df4383429ff1c5bf13efff528d_fab.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: fab.pdf
+type: OCWFile
 uid: b37259df-4383-429f-f1c5-bf13efff528d
 ---

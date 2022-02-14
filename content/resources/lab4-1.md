@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/3e8a65df69b6157b92a3f81080b6d81c_lab4.tgz
 file_type: application/x-gzip
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab4.tgz
+type: OCWFile
 uid: 3e8a65df-69b6-157b-92a3-f81080b6d81c
 ---

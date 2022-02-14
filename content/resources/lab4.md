@@ -4,7 +4,12 @@ description: 'Supporting files Lab 4: MKDIR, REMOVE, and locking. The ZIP file c
   6 .c files, 3 .h files, 2 .x files, 1 Makefile, and 1 .pl file.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/ed34f3f6395cd377ec14a9123c7fc50d_lab4.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab4.zip
+type: OCWFile
 uid: ed34f3f6-395c-d377-ec14-a9123c7fc50d
 ---

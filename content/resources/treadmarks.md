@@ -6,7 +6,12 @@ description: 'Discussion notes. Keleher, Pete, Alan L. Cox, Sandhya Dwarkadas, a
   1994, pp. 115-131.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/1e9343e624755efb0d5cbecb5abfb19a_treadmarks.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: treadmarks.pdf
+type: OCWFile
 uid: 1e9343e6-2475-5efb-0d5c-becb5abfb19a
 ---
