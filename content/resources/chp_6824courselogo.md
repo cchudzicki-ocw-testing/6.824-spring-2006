@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_6824courselogo.gif
 uid: b36c9cc2-1991-72b7-d534-5d58eae1c956
