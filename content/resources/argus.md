@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: argus.pdf
-type: OCWFile
 uid: 9a4259c1-b778-5210-c883-f9821e15ec2d
 ---

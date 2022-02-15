@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: lab4.zip
-type: OCWFile
 uid: ed34f3f6-395c-d377-ec14-a9123c7fc50d
 ---

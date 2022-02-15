@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: nfsloop.pdf
-type: OCWFile
 uid: 9326b4e7-325c-f7b5-6702-1eb4d8661dfb
 ---

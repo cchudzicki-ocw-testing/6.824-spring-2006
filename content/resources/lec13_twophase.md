@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec13_twophase.pdf
-type: OCWFile
 uid: e84a1d97-feaa-c296-a8ce-261d591a89ef
 ---

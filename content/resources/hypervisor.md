@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: hypervisor.pdf
-type: OCWFile
 uid: 64da807a-63d1-3ed6-1c17-58b055437d80
 ---

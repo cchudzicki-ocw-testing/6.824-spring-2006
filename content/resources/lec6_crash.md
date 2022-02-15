@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec6_crash.pdf
-type: OCWFile
 uid: 3dee6fc9-900f-9786-018a-2605a84488e0
 ---

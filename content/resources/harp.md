@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: harp.pdf
-type: OCWFile
 uid: 99b182de-cb0a-55e7-5570-e81d0d9ac858
 ---

@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: fab.pdf
-type: OCWFile
 uid: b37259df-4383-429f-f1c5-bf13efff528d
 ---

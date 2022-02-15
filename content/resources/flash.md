@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: flash.pdf
-type: OCWFile
 uid: 493f120f-35de-19fe-fc23-db9fbfd77cea
 ---

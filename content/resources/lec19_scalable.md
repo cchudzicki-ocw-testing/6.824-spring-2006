@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec19_scalable.pdf
-type: OCWFile
 uid: a560bc83-75de-c9c1-01c8-a9f7cbc684c7
 ---

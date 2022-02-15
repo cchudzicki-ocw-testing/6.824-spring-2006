@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: get_started.pdf
-type: OCWFile
 uid: a5ba851a-a5a2-14dd-fa9b-b2f1ee378113
 ---

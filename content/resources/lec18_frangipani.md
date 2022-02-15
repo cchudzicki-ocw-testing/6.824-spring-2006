@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec18_frangipani.pdf
-type: OCWFile
 uid: d1575cb8-2c17-e57b-ce7a-ccfae289c152
 ---

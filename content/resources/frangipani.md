@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: frangipani.pdf
-type: OCWFile
 uid: b22220c5-0d95-0e05-7daa-fcadea15d5d5
 ---

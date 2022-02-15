@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: rmi.pdf
-type: OCWFile
 uid: 18219824-d724-3c48-67f1-3c6fc13c735d
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec16_harp.pdf
-type: OCWFile
 uid: 3cc5add2-035c-0fb6-a3de-ad815aa5d0c6
 ---

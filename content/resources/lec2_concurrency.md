@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec2_concurrency.pdf
-type: OCWFile
 uid: 218dc61c-38c0-2d26-cb8d-cb9193268a4c
 ---

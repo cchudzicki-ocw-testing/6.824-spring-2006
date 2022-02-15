@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: lab1.tgz
-type: OCWFile
 uid: e5cf4dd0-3284-72b0-7273-5dd8ed962783
 ---

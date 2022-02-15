@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: nfs85.pdf
-type: OCWFile
 uid: ae72f960-4902-7186-c385-52927a51119f
 ---

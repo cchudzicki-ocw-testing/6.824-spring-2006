@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: sundr.pdf
-type: OCWFile
 uid: 84e8a775-998b-0255-a337-ff371c0b3cde
 ---

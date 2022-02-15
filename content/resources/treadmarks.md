@@ -12,6 +12,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: treadmarks.pdf
-type: OCWFile
 uid: 1e9343e6-2475-5efb-0d5c-becb5abfb19a
 ---

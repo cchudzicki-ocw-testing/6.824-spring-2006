@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec11_memory.pdf
-type: OCWFile
 uid: dcf13a12-8d3c-914f-d209-6bda16e84211
 ---

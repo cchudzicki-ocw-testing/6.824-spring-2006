@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ivy86.pdf
-type: OCWFile
 uid: e0c15ce1-71c1-fdbd-9a85-0af05de97c6d
 ---

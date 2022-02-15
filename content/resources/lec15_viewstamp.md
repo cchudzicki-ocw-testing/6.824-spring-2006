@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec15_viewstamp.pdf
-type: OCWFile
 uid: 0c5a978c-7567-ab6f-8c40-1ea8d8dff5f2
 ---

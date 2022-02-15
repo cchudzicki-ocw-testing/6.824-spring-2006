@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: porcupine.pdf
-type: OCWFile
 uid: 72875a5d-a860-ba7a-618b-ffcd6a492a00
 ---
