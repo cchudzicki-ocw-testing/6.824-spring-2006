@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec19_scalable.pdf
 uid: a560bc83-75de-c9c1-01c8-a9f7cbc684c7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

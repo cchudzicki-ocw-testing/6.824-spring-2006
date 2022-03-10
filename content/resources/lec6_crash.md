@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec6_crash.pdf
 uid: 3dee6fc9-900f-9786-018a-2605a84488e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

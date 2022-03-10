@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 0d6b0f9a-0c1e-c4c2-b33d-2820f69c4a5a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Previous Exams

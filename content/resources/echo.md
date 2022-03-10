@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: echo.pdf
 uid: b807cd75-edae-6e25-300a-55f1ab462431
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec7_logging.pdf
 uid: cf19ab3c-b917-d2c3-861c-fd8e2773b2cc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

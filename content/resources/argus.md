@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: argus.pdf
 uid: 9a4259c1-b778-5210-c883-f9821e15ec2d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

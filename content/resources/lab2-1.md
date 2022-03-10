@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lab2.tgz
 uid: 82fca11e-60cf-8c4b-7103-d9324d021a80
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

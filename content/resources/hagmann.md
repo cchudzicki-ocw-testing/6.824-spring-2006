@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hagmann.pdf
 uid: a608a445-7271-be45-5ffa-18a614ba94e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

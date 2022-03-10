@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec3_events.pdf
 uid: 38dc024f-e5e0-b8fe-7115-d4e19d2476ba
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: flash.pdf
 uid: 493f120f-35de-19fe-fc23-db9fbfd77cea
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

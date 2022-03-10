@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec4_nfs.pdf
 uid: 43f47eb2-03f1-27a2-2770-232b8fecf614
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: c6bbff67-7478-f7d2-6053-2d402c0b0bf7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Laboratory Assignments

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: nfsloop.pdf
 uid: 9326b4e7-325c-f7b5-6702-1eb4d8661dfb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec16_harp.pdf
 uid: 3cc5add2-035c-0fb6-a3de-ad815aa5d0c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

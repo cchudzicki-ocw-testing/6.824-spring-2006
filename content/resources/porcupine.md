@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: porcupine.pdf
 uid: 72875a5d-a860-ba7a-618b-ffcd6a492a00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: get_started.pdf
 uid: a5ba851a-a5a2-14dd-fa9b-b2f1ee378113
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

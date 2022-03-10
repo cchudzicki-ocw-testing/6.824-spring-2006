@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec5_rpc.pdf
 uid: 4d9be57b-6b16-c24e-0b37-e74f77b03fa9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

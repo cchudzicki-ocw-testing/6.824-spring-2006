@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec15_viewstamp.pdf
 uid: 0c5a978c-7567-ab6f-8c40-1ea8d8dff5f2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

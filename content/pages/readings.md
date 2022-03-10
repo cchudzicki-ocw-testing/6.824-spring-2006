@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: c997e41e-1922-a341-23a2-40acbb0edd90
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The discussion notes were given to students to aid them in thinking about various ideas covered in the assigned reading, thus preparing them for the classroom discussions.

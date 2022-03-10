@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec18_frangipani.pdf
 uid: d1575cb8-2c17-e57b-ce7a-ccfae289c152
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prev_projects.pdf
 uid: 2d17c206-9a82-c00f-08fa-dde727802bec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

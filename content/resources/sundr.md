@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sundr.pdf
 uid: 84e8a775-998b-0255-a337-ff371c0b3cde
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

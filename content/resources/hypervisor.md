@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hypervisor.pdf
 uid: 64da807a-63d1-3ed6-1c17-58b055437d80
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

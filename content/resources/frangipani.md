@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: frangipani.pdf
 uid: b22220c5-0d95-0e05-7daa-fcadea15d5d5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

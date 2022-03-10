@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec2_concurrency.pdf
 uid: 218dc61c-38c0-2d26-cb8d-cb9193268a4c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

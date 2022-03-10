@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec9_memory.pdf
 uid: 6b5f4411-9403-bff5-4a14-a90a65eabeab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

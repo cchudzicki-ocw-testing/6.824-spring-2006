@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: treadmarks.pdf
 uid: 1e9343e6-2475-5efb-0d5c-becb5abfb19a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

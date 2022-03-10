@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec14_paxos.pdf
 uid: 931673e3-6ad8-ab1e-fd3d-3e5dcb240485
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

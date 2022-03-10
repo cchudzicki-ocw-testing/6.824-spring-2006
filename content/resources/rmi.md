@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rmi.pdf
 uid: 18219824-d724-3c48-67f1-3c6fc13c735d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

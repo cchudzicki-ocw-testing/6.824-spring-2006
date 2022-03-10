@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 4d330825-fdf8-34cf-0e1d-7a2b6a4809af
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< anchor "Due_Date" >}}{{< /anchor >}}Due date for team list: Lec #6  

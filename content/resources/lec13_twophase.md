@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec13_twophase.pdf
 uid: e84a1d97-feaa-c296-a8ce-261d591a89ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

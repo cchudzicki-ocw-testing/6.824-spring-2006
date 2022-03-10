@@ -12,4 +12,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: chp_6824courselogo.gif
 uid: b36c9cc2-1991-72b7-d534-5d58eae1c956
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
