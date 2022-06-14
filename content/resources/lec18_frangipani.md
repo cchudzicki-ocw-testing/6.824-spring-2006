@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about a Scalable Distributed File System.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/d1575cb82c17e57bce7accfae289c152_lec18_frangipani.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/d1575cb82c17e57bce7accfae289c152_lec18_frangipani.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes about a Scalable Distributed File System.

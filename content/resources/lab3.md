@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory assignment on Reading, Writing, and Sharing Files.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/66657c51906f8ac18d9b7786004253e4_lab3.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/66657c51906f8ac18d9b7786004253e4_lab3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Laboratory assignment on Reading, Writing, and Sharing Files.

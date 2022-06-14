@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory assignment on lock servers.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/249a3c224b01f2547ee25a3971ce2a73_lab1.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/249a3c224b01f2547ee25a3971ce2a73_lab1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Laboratory assignment on lock servers.

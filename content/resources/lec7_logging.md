@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Logging.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/cf19ab3cb917d2c3861cfd8e2773b2cc_lec7_logging.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/cf19ab3cb917d2c3861cfd8e2773b2cc_lec7_logging.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes about Logging.

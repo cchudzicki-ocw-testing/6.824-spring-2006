@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files Lab 1: Lock Server. The ZIP file contains: 5 .c files,
   2 .h files, 1 Makefile, and 1 .x file.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-824-distributed-computer-systems-engineering-spring-2006/87a3ee7eb7ad73adcfe749e3b5f749dd_lab1.zip
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/87a3ee7eb7ad73adcfe749e3b5f749dd_lab1.zip
 file_type: application/zip
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Supporting files Lab 1: Lock Server. The ZIP file contains: 5 .c files, 2 .h files, 1 Makefile, and 1 .x file.
