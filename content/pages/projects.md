@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the final project for the course,
+  including introduction, grades, suggestions for projects, and what to hand in.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

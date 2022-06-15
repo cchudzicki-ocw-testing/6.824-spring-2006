@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the lab assignments, class machines,
+  and aids for working in labs.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

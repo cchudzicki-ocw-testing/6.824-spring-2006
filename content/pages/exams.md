@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides practice quizzes from Spring 2005.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
